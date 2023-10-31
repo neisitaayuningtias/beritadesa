@@ -1,0 +1,31 @@
+.jumbotron {
+  padding: 2rem 1rem;
+}
+.navbar {
+  background-color: #e2e7ff;
+}
+#projects {
+  background-color: #e2e7ff;
+}
+.container {
+  display: flex;
+  align-items: center;
+}
+
+.image {
+  width: 200px;
+  height: 150px;
+  margin-right: 20px;
+}
+
+.description {
+  font-size: 16px;
+}
+.primary-color {
+  color: #227cf3; /* Gantilah dengan kode warna atau nama warna yang sesuai dengan warna primary Anda */
+}
+
+/* Menggunakan warna primary untuk judul kedua (h2) */
+h2.primary-color {
+  font-size: 24px; /* Gantilah ukuran font sesuai keinginan Anda */
+}
